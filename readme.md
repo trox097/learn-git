@@ -3,7 +3,7 @@
 i am learning a lot
 
 
-'''javascript
+```javascript
 console.log('hello world');
-'''
+```
 
